@@ -5,7 +5,7 @@ src="https://raw.githubusercontent.com/gist/EvertonKaylon/14199bdfe62402bbdc9aa7
 
 <div align="left">
   <a href="https://github.com/EvertonKaylon">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=EvertonKaylon&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EvertonKaylon&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonKaylon&layout=&langs_count=7&theme=midnight-purple"/>
 </div>
 
