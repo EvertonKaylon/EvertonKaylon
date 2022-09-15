@@ -1,12 +1,12 @@
 #  Olaaaa!  **Everton Aqui**, O _*Futuro Mago Da Programação!*_
 
-<img align="right" height="590em" 
-src="https://raw.githubusercontent.com/gist/EvertonKaylon/14199bdfe62402bbdc9aa7e434551e26/raw/23e2271966d6eae0ed7f0cb90a68cc2da008b164/personalCard.svg"/>
+<!---<img align="right" height="590em" 
+src="https://raw.githubusercontent.com/gist/EvertonKaylon/14199bdfe62402bbdc9aa7e434551e26/raw/23e2271966d6eae0ed7f0cb90a68cc2da008b164/personalCard.svg"/>--->
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/EvertonKaylon">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EvertonKaylon&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonKaylon&layout=&langs_count=7&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonKaylon&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
 <div><br>
